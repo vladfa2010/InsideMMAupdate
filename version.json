@@ -1,0 +1,5 @@
+{
+  "version": "1.0.0",
+  "downloadUrl": "https://github.com/vladfa2010/InsideMMAupdate/raw/main/dist/InsideMMA_1.0.0.zip",
+  "releaseNotes": "Первый публичный дистрибутив. Обновлен txmlconnector.dll, исправлена кнопка логина, добавлено логирование ошибок."
+}
