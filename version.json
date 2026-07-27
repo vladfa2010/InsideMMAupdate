@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1.0",
-  "downloadUrl": "https://github.com/vladfa2010/InsideMMAupdate/raw/main/dist/InsideBroker_1.0.1.zip",
-  "releaseNotes": "Переименование продукта в InsideBroker. Исправлена отрисовка пузырей на графике TradingView (округление времени сделок до свечи). Обновлена документация графиков."
+  "version": "1.0.2.0",
+  "downloadUrl": "https://github.com/vladfa2010/InsideMMAupdate/raw/main/dist/InsideBroker_1.0.2.zip",
+  "releaseNotes": "Проверка механизма автообновления. Версия 1.0.2.0."
 }
