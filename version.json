@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3.0",
-  "downloadUrl": "https://github.com/vladfa2010/InsideMMAupdate/raw/main/dist/InsideBroker_1.0.3.zip",
-  "releaseNotes": "Проверка механизма автообновления с диагностическим логированием. Версия 1.0.3.0."
+  "version": "1.0.4.0",
+  "downloadUrl": "https://github.com/vladfa2010/InsideMMAupdate/raw/main/dist/InsideBroker_1.0.4.zip",
+  "releaseNotes": "Релиз 1.0.4.0: актуальная версия для проверки автообновления."
 }
